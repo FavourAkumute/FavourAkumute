@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FavourAkumute
-- 👀 I’m interested in Datascience and Data Analytics
+- 👀 I am a Datascientist and Data Analyst.
 - 🌱 I am a proficient user of Python, R, SPSS, Advanced use of excel, SQL and other tools for Datascience and Data analytics projects.
 - 💞️ I’m looking to collaborate on Datascience and Data analytics projects.
 - 📫 You can reach me via email: akumutefavour@gmail.com, LinkedIn: Akumute Favour
